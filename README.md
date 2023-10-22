@@ -1,2 +1,2 @@
 # Calculator-App
-Calculator app
+This is a simple calculator built with HTML, CSS and Javascript.
